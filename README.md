@@ -28,14 +28,14 @@ gcc fibonacci_heap.cpp -o fibonacci_heap
 An example for giving input nodes in text file:
 
 ```
-4 no. of roots
-7 3 11 19  all-roots
-7 0       node-key,degree
-3 1       node-key,degree
-8         all children of above node 
-8 0       node-key,degree
-11 3      node-key,degree
-15 17 100   all children of above node
+4          ( no. of roots )
+7 3 11 19  ( all-roots )
+7 0        ( node-key, degree )
+3 1        ( node-key, degree )
+8          ( all children of above node ) 
+8 0        ( node-key, degree )
+11 3       ( node-key,degree )
+15 17 100  ( all children of above node )
 15 1
 18
 18 0
