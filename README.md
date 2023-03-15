@@ -24,12 +24,12 @@ Fibonacci Heap is a collection of trees with min-heap or max-heap property. In F
 To compile code
 
 ```
-gcc fibonacci_heap.cpp -o fibonacci_heap
+g++ fibonacci_heap.cpp -o fibonacci_heap
 ```
 
 To run
 ```
-fibonacci_heap
+./fibonacci_heap
 ```
 
 An example for giving input nodes in text file:
